@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1590530795 source:c:\users\user\desktop\cpp\tarea7u6\pelicula.cpp
+	"Pelicula.h"
+	"Persona.h"
+	<iostream>
+	<cstring>
+
+1590531032 c:\users\user\desktop\cpp\tarea7u6\pelicula.h
+	"Persona.h"
+
+1590529398 c:\users\user\desktop\cpp\tarea7u6\persona.h
+
+1590531190 source:c:\users\user\desktop\cpp\tarea7u6\main.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+	"Pelicula.h"
+	"Prestamo.h"
+
+1590528039 c:\users\user\desktop\cpp\tarea7u6\prestamo.h
+
+1590528039 source:c:\users\user\desktop\cpp\tarea7u6\prestamo.cpp
+	"Prestamo.h"
+	"Pelicula.h"
+	"Persona.h"
+	<iostream>
+	<cstring>
+
+1590529686 source:c:\users\user\desktop\cpp\tarea7u6\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
